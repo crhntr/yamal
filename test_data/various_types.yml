@@ -1,0 +1,14 @@
+---
+t: true
+f: false
+integer: 100
+float: 2.3456
+array:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+array_single_line: [5, 6, 7, 8, 9]
+# Comment
+nil: null
