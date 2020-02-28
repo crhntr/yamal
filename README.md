@@ -1,4 +1,6 @@
 # yamal
 Yet another YAML package (early work in progress)
 
-Currently working on lexical scanner
+## Goals
+- Do not use maps... so key value pairs are ordered
+- Easy to use queries for yaml document read and update operations
